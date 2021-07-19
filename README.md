@@ -32,4 +32,4 @@ All in all, the line chart below does show the figures to be fairly steady for a
 
 ![pyber_line_summary](https://github.com/rainmannyc/PyBer_Analysis_indev/blob/497e567bc2b54871b00cbae978df21a4f0926ea5/analysis/PyBer_fare_summary.png)
 
-We hope the CEO and V. Isualize like our presentation! We are now ready, willing and prepared 
+We hope the CEO and V. Isualize like our presentation!
