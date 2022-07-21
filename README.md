@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-The purpose of the Pyber analysis was to create a summary dataframe to show the differences in ride sharing data by city type from the data we have been collecting as well as the dataframes we created earlier. Another request V. Isualize has also assigned me and Omar is to create a multiple line graph that shows the total weekly fares by each city type as well. 
+The purpose of the Pyber analysis was to create a summary dataframe to show the differences in ride sharing data by city type from the data we have been collecting as well as the dataframes we created earlier. The request was to create a multiple line graph that shows the total weekly fares by each city type as well. 
 
 ### **Results**
 
@@ -31,5 +31,3 @@ The rural drivers make alot more money per ride and per driver, however there ar
 All in all, the line chart below does show the figures to be fairly steady for all three areas with the most flucations coming from Urban Areas:
 
 ![pyber_line_summary](https://github.com/rainmannyc/PyBer_Analysis_indev/blob/497e567bc2b54871b00cbae978df21a4f0926ea5/analysis/PyBer_fare_summary.png)
-
-We hope the CEO and V. Isualize like our presentation!
